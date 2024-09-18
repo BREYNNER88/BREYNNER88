@@ -4,7 +4,7 @@
 Estudiante de ciencias de la computación | Interés en análisis de datos y Machine Learning 🤖 | Real Madrid
 ***
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-breynner-guzman-sanchez-620160329)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/Breynner-Guzmán)
 
 
 ## ⚡ Datos rápidos sobre mí:
@@ -15,7 +15,7 @@ Estudiante de ciencias de la computación | Interés en análisis de datos y Mac
 - Estoy implementando modelos matemáticos 
 de **Machine Learning** en *python*.
 
-- 📨 contacto: jhonguzmansanchez@gmail.com
+- 📫 contacto: jhonguzmansanchez@gmail.com
 - ⚡fun fact:
 
 

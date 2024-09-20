@@ -8,13 +8,15 @@ Estudiante de ciencias de la computación | Interés en análisis de datos y Mac
 
 
 ## ⚡ Datos rápidos sobre mí:
-<img aling= "right" src= "https://media4.giphy.com/media/QpVUMRUJGokfqXyfa1/200.webp?cid=790b7611tbkn0fchwbicy4cwicgwrph4ow13027vm1xn1x61&ep=v1_gifs_search&rid=200.webp&ct=g" width = "200"  >
+
+
+
 
 - 🌱 Estoy aprendiendo nuevas técnicas de
  visualización y **análisis de datos**.
 - Estoy implementando modelos matemáticos 
 de **Machine Learning** en *python*.
-
+<img aling= "right" src= "https://media4.giphy.com/media/QpVUMRUJGokfqXyfa1/200.webp?cid=790b7611tbkn0fchwbicy4cwicgwrph4ow13027vm1xn1x61&ep=v1_gifs_search&rid=200.webp&ct=g" width = "200"  >
 - 📫 contacto: jhonguzmansanchez@gmail.com
 - ⚡fun fact:
 
